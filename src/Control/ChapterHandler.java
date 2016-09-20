@@ -1,6 +1,6 @@
-package Control;
+package control;
 
-import Model.Chapter;
+import model.Chapter;
 
 /**
  * Created by 204g13 on 19.09.2016.
