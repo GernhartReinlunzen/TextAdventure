@@ -30,7 +30,7 @@ public class MainView extends TextAdventureView{
     private void addButtonListener() {
         btnViewOUK.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent e) {
-                vHandler.changeCurrentFrameTo(new OMainView());
+                vHandler.changeCurrentFrameTo(ViewHandler.VIEW.OUK);
             }
         });
 
