@@ -13,9 +13,6 @@ sich jemand deinem Kerker nähert. Durch den Schlitz
 
 
 
-
-
-
 ~choose "idbs","osausdids"~
 if "idbs"
 Text1

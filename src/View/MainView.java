@@ -22,6 +22,7 @@ public class MainView extends TextAdventureView{
         setContentPane(mainPanel);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setVisible(true);
+        setSize(500,300);
 
         label.setText("Text Adventure: Regnum Leonum");
         addButtonListener();
