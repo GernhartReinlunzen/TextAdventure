@@ -1,0 +1,24 @@
+Deine Augen öffnen sich… Du schaust dich um… Etwas
+ dunkel, jedoch hell genug um zu erkennen das du in
+ einem Raum bist. Du versuchst aufzustehen dabei 
+merkst du plötzlich das deine Hände gefesselt sind!
+ Du merkst erst jetzt das du in einem Kerker sitzt.
+ Plötzlich hörst du ein lautes BOOOM… Du hörst wie 
+sich jemand deinem Kerker nähert. Durch den Schlitz
+ an der Holztür erkennst du das die Person ein Schwert
+ in der Hand hält. Die Person bleibt vor der Tür stehen
+ und fragt knurrend „Wer bist du?“...
+
+~C: name, ang, ~
+
+
+
+
+
+
+~choose "idbs","osausdids"~
+if "idbs"
+Text1
+
+if "osausdids"
+Text2

@@ -1,7 +1,7 @@
-package view;
+package View;
 
-import control.*;
-import view.ouk.OMainView;
+import Control.*;
+import View.OUK.OMainView;
 
 import javax.swing.*;
 

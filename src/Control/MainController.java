@@ -1,5 +1,5 @@
-package control;
-import model.Creature;
+package Control;
+import Model.Creature;
 
 /**
  * Created by 204g06 on 16.09.2016.

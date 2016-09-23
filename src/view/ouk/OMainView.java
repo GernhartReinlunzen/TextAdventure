@@ -1,6 +1,6 @@
-package view.ouk;
+package View.OUK;
 
-import view.TextAdventureView;
+import View.TextAdventureView;
 
 import javax.swing.*;
 /**

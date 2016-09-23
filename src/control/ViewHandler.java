@@ -1,7 +1,7 @@
-package control;
+package Control;
 
-import view.MainView;
-import view.TextAdventureView;
+import View.MainView;
+import View.TextAdventureView;
 
 import javax.swing.*;
 
